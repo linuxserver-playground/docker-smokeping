@@ -1,172 +1,232 @@
-NAME                     VERSION                               TYPE        
-acl-libs                 2.3.2-r1                              apk          
-alpine-baselayout        3.7.0-r0                              apk          
-alpine-baselayout-data   3.7.0-r0                              apk          
-alpine-keys              2.5-r0                                apk          
-alpine-release           3.22.6-r0                             apk          
-apache-mod-fcgid         2.3.9-r6                              apk          
-apache2                  2.4.69-r0                             apk          
-apache2-ctl              2.4.69-r0                             apk          
-apache2-utils            2.4.69-r0                             apk          
-apk-tools                2.14.12-r0                            apk          
-apr                      1.7.5-r0                              apk          
-apr-util                 1.6.4-r0                              apk          
-bash                     5.2.37-r0                             apk          
-bc                       1.08.2-r0                             apk          
-bind-libs                9.20.29-r0                            apk          
-bind-tools               9.20.29-r0                            apk          
-brotli-libs              1.1.0-r2                              apk          
-busybox                  1.37.0-r20                            apk          
-busybox-binsh            1.37.0-r20                            apk          
-c-ares                   1.34.8-r0                             apk          
-ca-certificates          20260909-r0                           apk          
-ca-certificates-bundle   20260909-r0                           apk          
-cairo                    1.18.4-r0                             apk          
-catatonit                0.2.1-r0                              apk          
-coreutils                9.7-r1                                apk          
-coreutils-env            9.7-r1                                apk          
-coreutils-fmt            9.7-r1                                apk          
-coreutils-sha512sum      9.7-r1                                apk          
-curl                     8.14.1-r3                             apk          
-encodings                1.0.7-r1                              apk          
-findutils                4.10.0-r0                             apk          
-font-cantarell           0.303.1-r2                            apk          
-font-dejavu              2.37-r6                               apk          
-font-noto-cjk            0_git20220127-r1                      apk          
-fontconfig               2.15.0-r3                             apk          
-fping                    5.3-r0                                apk          
-freetype                 2.13.3-r0                             apk          
-fribidi                  1.0.16-r1                             apk          
-fstrm                    0.6.1-r4                              apk          
-github.com/heistp/irtt   UNKNOWN                               go-module    
-github.com/ogier/pflag   v0.0.2-0.20160129220114-45c278ab3607  go-module    
-glib                     2.84.4-r0                             apk          
-golang.org/x/net         v0.6.0                                go-module    
-golang.org/x/sys         v0.6.0                                go-module    
-graphite2                1.3.14-r6                             apk          
-harfbuzz                 11.2.1-r0                             apk          
-irtt                     0.9.1-r37                             apk          
-jq                       1.8.2-r0                              apk          
-json-c                   0.18-r1                               apk          
-keyutils-libs            1.6.3-r4                              apk          
-krb5-conf                1.0-r2                                apk          
-krb5-libs                1.21.3-r0                             apk          
-libapk2                  2.14.12-r0                            apk          
-libattr                  2.5.2-r2                              apk          
-libblkid                 2.41.6-r1                             apk          
-libbsd                   0.12.2-r0                             apk          
-libbz2                   1.0.8-r6                              apk          
-libcom_err               1.47.2-r2                             apk          
-libcrypto3               3.5.9-r0                              apk          
-libcurl                  8.14.1-r3                             apk          
-libeconf                 0.6.3-r0                              apk          
-libedit                  20250104.3.1-r1                       apk          
-libexpat                 2.9.0-r0                              apk          
-libffi                   3.4.8-r0                              apk          
-libfontenc               1.1.8-r0                              apk          
-libidn2                  2.3.7-r0                              apk          
-libintl                  0.24.1-r0                             apk          
-libmd                    1.1.0-r0                              apk          
-libmount                 2.41.6-r1                             apk          
-libncursesw              6.5_p20250503-r0                      apk          
-libnet                   1.3-r0                                apk          
-libpcap                  1.10.7-r0                             apk          
-libpng                   1.6.59-r0                             apk          
-libproc2                 4.0.4-r3                              apk          
-libpsl                   0.21.5-r3                             apk          
-librrd                   1.9.0-r4                              apk          
-libssl3                  3.5.9-r0                              apk          
-libunistring             1.3-r0                                apk          
-libuuid                  2.41.6-r1                             apk          
-libuv                    1.51.0-r0                             apk          
-libverto                 0.3.2-r2                              apk          
-libx11                   1.8.11-r0                             apk          
-libxau                   1.0.12-r0                             apk          
-libxcb                   1.17.0-r0                             apk          
-libxdmcp                 1.1.5-r1                              apk          
-libxext                  1.3.6-r2                              apk          
-libxft                   2.3.8-r3                              apk          
-libxml2                  2.13.9-r1                             apk          
-libxrender               0.9.12-r0                             apk          
-linux-pam                1.7.0-r4                              apk          
-lynx                     2.9.2-r1                              apk          
-mkfontscale              1.2.3-r1                              apk          
-musl                     1.2.5-r12                             apk          
-musl-utils               1.2.5-r12                             apk          
-ncurses-terminfo-base    6.5_p20250503-r0                      apk          
-netcat-openbsd           1.229.1-r0                            apk          
-nghttp2-libs             1.69.0-r0                             apk          
-oniguruma                6.9.10-r0                             apk          
-openssh-client-common    10.0_p1-r10                           apk          
-openssh-client-default   10.0_p1-r10                           apk          
-openssh-keygen           10.0_p1-r10                           apk          
-pango                    1.56.3-r0                             apk          
-pcre2                    10.46-r0                              apk          
-perl                     5.40.4-r0                             apk          
-perl-authen-radius       0.33-r0                               apk          
-perl-cgi                 4.68-r0                               apk          
-perl-cgi-fast            2.17-r1                               apk          
-perl-cgi-session         4.48-r5                               apk          
-perl-clone               0.47-r0                               apk          
-perl-config-grammar      1.13-r4                               apk          
-perl-convert-asn1        0.34-r0                               apk          
-perl-data-hexdump        0.04-r1                               apk          
-perl-digest-hmac         1.05-r0                               apk          
-perl-digest-md5          2.59-r2                               apk          
-perl-digest-sha1         2.13-r19                              apk          
-perl-encode-locale       1.05-r5                               apk          
-perl-fcgi                0.82-r4                               apk          
-perl-file-listing        6.16-r0                               apk          
-perl-html-parser         3.83-r0                               apk          
-perl-html-tagset         3.24-r0                               apk          
-perl-http-cookies        6.11-r0                               apk          
-perl-http-date           6.06-r0                               apk          
-perl-http-message        7.00-r0                               apk          
-perl-http-negotiate      6.01-r5                               apk          
-perl-io-html             1.004-r1                              apk          
-perl-io-socket-inet6     2.73-r2                               apk          
-perl-io-socket-ssl       2.089-r0                              apk          
-perl-io-tty              1.20-r1                               apk          
-perl-json                4.10-r1                               apk          
-perl-json-maybexs        1.004008-r0                           apk          
-perl-ldap                0.68-r2                               apk          
-perl-libwww              6.77-r0                               apk          
-perl-lwp-mediatypes      6.04-r3                               apk          
-perl-lwp-protocol-https  6.14-r0                               apk          
-perl-mozilla-ca          20250202-r0                           apk          
-perl-net-dns             1.49-r0                               apk          
-perl-net-http            6.23-r1                               apk          
-perl-net-ip              1.26-r7                               apk          
-perl-net-openssh         0.84-r1                               apk          
-perl-net-snmp            6.0.1-r8                              apk          
-perl-net-ssleay          1.94-r2                               apk          
-perl-net-telnet          3.05-r1                               apk          
-perl-path-tiny           0.146-r0                              apk          
-perl-rrd                 1.9.0-r4                              apk          
-perl-snmp-session        1.16-r2                               apk          
-perl-socket6             0.29-r10                              apk          
-perl-text-soundex        3.05-r10                              apk          
-perl-try-tiny            0.32-r0                               apk          
-perl-uri                 5.28-r0                               apk          
-perl-www-robotrules      6.02-r5                               apk          
-pixman                   0.46.4-r0                             apk          
-procps-ng                4.0.4-r3                              apk          
-protobuf-c               1.5.2-r0                              apk          
-readline                 8.2.13-r1                             apk          
-rrdtool                  1.9.0-r4                              apk          
-scanelf                  1.3.8-r1                              apk          
-shadow                   4.17.3-r0                             apk          
-skalibs-libs             2.14.4.0-r0                           apk          
-smokeping                2.9.0-r0                              apk          
-ssl_client               1.37.0-r20                            apk          
-ssmtp                    2.64-r22                              apk          
-stdlib                   go1.24.12                             go-module    
-sudo                     1.9.17_p2-r0                          apk          
-tcptraceroute            1.5_beta7-r4                          apk          
-traceroute               2.1.6-r0                              apk          
-tzdata                   2026e-r0                              apk          
-userspace-rcu            0.15.2-r0                             apk          
-utmps-libs               0.1.3.1-r0                            apk          
-xz-libs                  5.8.4-r0                              apk          
-zlib                     1.3.2-r1                              apk          
-zstd-libs                1.5.7-r0                              apk          
+NAME                         VERSION                               TYPE                       
+Algorithm-Diff               1.201                                 cpan       (+1 duplicate)  
+Any-Moose                    0.27                                  cpan       (+1 duplicate)  
+Authen-TacacsPlus            0.28                                  cpan       (+1 duplicate)  
+B-Hooks-EndOfScope           0.28                                  cpan       (+1 duplicate)  
+B-Hooks-OP-Check             0.22                                  cpan       (+1 duplicate)  
+Capture-Tiny                 0.50                                  cpan       (+1 duplicate)  
+Class-Data-Inheritable       0.10                                  cpan       (+1 duplicate)  
+Class-Inspector              1.36                                  cpan       (+1 duplicate)  
+Const-Fast                   0.014                                 cpan       (+1 duplicate)  
+Cwd-Guard                    0.05                                  cpan       (+1 duplicate)  
+Devel-CheckCompiler          0.07                                  cpan       (+1 duplicate)  
+Devel-Declare                0.006022                              cpan       (+1 duplicate)  
+Devel-StackTrace             2.05                                  cpan       (+1 duplicate)  
+Digest-SHA1                  UNKNOWN                               cpan                       
+Encode-Locale                UNKNOWN                               cpan                       
+Exception-Class              1.46                                  cpan       (+1 duplicate)  
+ExtUtils-Config              0.010                                 cpan       (+1 duplicate)  
+ExtUtils-Depends             0.8002                                cpan       (+1 duplicate)  
+ExtUtils-Helpers             0.028                                 cpan       (+1 duplicate)  
+ExtUtils-InstallPaths        0.015                                 cpan       (+1 duplicate)  
+FCGI                         UNKNOWN                               cpan                       
+File-Copy-Recursive-Reduced  0.008                                 cpan       (+1 duplicate)  
+Hook-LexWrap                 0.26                                  cpan       (+1 duplicate)  
+InfluxDB-HTTP                0.04                                  cpan       (+1 duplicate)  
+InfluxDB-LineProtocol        1.015                                 cpan       (+1 duplicate)  
+Keyword-Simple               0.04                                  cpan       (+1 duplicate)  
+Lexical-SealRequireHints     0.012                                 cpan       (+1 duplicate)  
+Method-Signatures            20170211                              cpan       (+1 duplicate)  
+Module-Build                 0.4234                                cpan       (+1 duplicate)  
+Module-Build-Tiny            0.053                                 cpan       (+1 duplicate)  
+Module-Build-XSUtil          0.19                                  cpan       (+1 duplicate)  
+Module-Implementation        0.09                                  cpan       (+1 duplicate)  
+Module-Runtime               0.018                                 cpan       (+1 duplicate)  
+Mouse                        UNKNOWN                               cpan                       
+Mouse                        v2.6.2                                cpan                       
+Net-IP                       UNKNOWN                               cpan                       
+Object-Result                0.000003                              cpan       (+1 duplicate)  
+PPI                          1.291                                 cpan       (+1 duplicate)  
+Params-Util                  1.102                                 cpan       (+1 duplicate)  
+Safe-Isa                     1.000010                              cpan       (+1 duplicate)  
+Sub-Exporter-Progressive     0.001013                              cpan       (+1 duplicate)  
+Sub-Name                     0.28                                  cpan       (+1 duplicate)  
+Sub-Uplevel                  0.2800                                cpan       (+1 duplicate)  
+Task-Weaken                  1.06                                  cpan       (+1 duplicate)  
+Test-Deep                    1.205                                 cpan       (+1 duplicate)  
+Test-Differences             0.73                                  cpan       (+1 duplicate)  
+Test-Exception               0.43                                  cpan       (+1 duplicate)  
+Test-Fatal                   0.019                                 cpan       (+1 duplicate)  
+Test-LeakTrace               0.17                                  cpan       (+1 duplicate)  
+Test-Most                    0.42                                  cpan       (+1 duplicate)  
+Test-NoWarnings              1.06                                  cpan       (+1 duplicate)  
+Test-Object                  0.08                                  cpan       (+1 duplicate)  
+Test-Output                  1.036                                 cpan       (+1 duplicate)  
+Test-Requires                0.11                                  cpan       (+1 duplicate)  
+Test-SubCalls                1.10                                  cpan       (+1 duplicate)  
+Test-Warn                    0.37                                  cpan       (+1 duplicate)  
+Test-Warnings                0.038                                 cpan       (+1 duplicate)  
+Text-Diff                    1.46                                  cpan       (+1 duplicate)  
+Variable-Magic               0.65                                  cpan       (+1 duplicate)  
+YAML-PP                      v0.43.0                               cpan       (+1 duplicate)  
+acl-libs                     2.3.2-r1                              apk                        
+alpine-baselayout            3.7.0-r0                              apk                        
+alpine-baselayout-data       3.7.0-r0                              apk                        
+alpine-keys                  2.5-r0                                apk                        
+alpine-release               3.22.7-r0                             apk                        
+apache-mod-fcgid             2.3.9-r6                              apk                        
+apache2                      2.4.69-r0                             apk                        
+apache2-ctl                  2.4.69-r0                             apk                        
+apache2-utils                2.4.69-r0                             apk                        
+apk-tools                    2.14.12-r0                            apk                        
+apr                          1.7.5-r0                              apk                        
+apr-util                     1.6.4-r0                              apk                        
+bash                         5.2.37-r0                             apk                        
+bc                           1.08.2-r0                             apk                        
+bind-libs                    9.20.30-r0                            apk                        
+bind-tools                   9.20.30-r0                            apk                        
+brotli-libs                  1.1.1-r0                              apk                        
+busybox                      1.37.0-r20                            apk                        
+busybox-binsh                1.37.0-r20                            apk                        
+c-ares                       1.34.9-r0                             apk                        
+ca-certificates              20261020-r0                           apk                        
+ca-certificates-bundle       20261020-r0                           apk                        
+cairo                        1.18.4-r0                             apk                        
+catatonit                    0.2.1-r0                              apk                        
+coreutils                    9.7-r1                                apk                        
+coreutils-env                9.7-r1                                apk                        
+coreutils-fmt                9.7-r1                                apk                        
+coreutils-sha512sum          9.7-r1                                apk                        
+curl                         8.14.1-r4                             apk                        
+encodings                    1.0.7-r1                              apk                        
+findutils                    4.10.0-r0                             apk                        
+font-cantarell               0.303.1-r2                            apk                        
+font-dejavu                  2.37-r6                               apk                        
+font-noto-cjk                0_git20220127-r1                      apk                        
+fontconfig                   2.15.0-r3                             apk                        
+fping                        5.3-r0                                apk                        
+freetype                     2.13.3-r0                             apk                        
+fribidi                      1.0.16-r1                             apk                        
+fstrm                        0.6.1-r4                              apk                        
+github.com/heistp/irtt       UNKNOWN                               go-module                  
+github.com/ogier/pflag       v0.0.2-0.20160129220114-45c278ab3607  go-module                  
+glib                         2.84.4-r0                             apk                        
+golang.org/x/net             v0.6.0                                go-module                  
+golang.org/x/sys             v0.6.0                                go-module                  
+graphite2                    1.3.14-r6                             apk                        
+harfbuzz                     11.2.1-r0                             apk                        
+irtt                         0.9.1-r37                             apk                        
+jq                           1.8.2-r0                              apk                        
+json-c                       0.18-r1                               apk                        
+keyutils-libs                1.6.3-r4                              apk                        
+krb5-conf                    1.0-r2                                apk                        
+krb5-libs                    1.21.3-r0                             apk                        
+libapk2                      2.14.12-r0                            apk                        
+libattr                      2.5.2-r2                              apk                        
+libblkid                     2.41.6-r1                             apk                        
+libbsd                       0.12.2-r0                             apk                        
+libbz2                       1.0.8-r6                              apk                        
+libcom_err                   1.47.2-r2                             apk                        
+libcrypto3                   3.5.9-r0                              apk                        
+libcurl                      8.14.1-r4                             apk                        
+libeconf                     0.6.3-r0                              apk                        
+libedit                      20250104.3.1-r1                       apk                        
+libexpat                     2.9.0-r0                              apk                        
+libffi                       3.4.8-r0                              apk                        
+libfontenc                   1.1.8-r0                              apk                        
+libidn2                      2.3.7-r0                              apk                        
+libintl                      0.24.1-r0                             apk                        
+libmd                        1.1.0-r0                              apk                        
+libmount                     2.41.6-r1                             apk                        
+libncursesw                  6.5_p20250503-r0                      apk                        
+libnet                       1.3-r0                                apk                        
+libpcap                      1.10.7-r0                             apk                        
+libpng                       1.6.59-r0                             apk                        
+libproc2                     4.0.4-r3                              apk                        
+libpsl                       0.21.5-r3                             apk                        
+librrd                       1.9.0-r4                              apk                        
+libssl3                      3.5.9-r0                              apk                        
+libunistring                 1.3-r0                                apk                        
+libuuid                      2.41.6-r1                             apk                        
+libuv                        1.51.0-r0                             apk                        
+libverto                     0.3.2-r2                              apk                        
+libx11                       1.8.11-r0                             apk                        
+libxau                       1.0.12-r0                             apk                        
+libxcb                       1.17.0-r0                             apk                        
+libxdmcp                     1.1.5-r1                              apk                        
+libxext                      1.3.6-r2                              apk                        
+libxft                       2.3.8-r3                              apk                        
+libxml2                      2.13.9-r1                             apk                        
+libxrender                   0.9.12-r0                             apk                        
+linux-pam                    1.7.0-r4                              apk                        
+lynx                         2.9.2-r1                              apk                        
+mkfontscale                  1.2.3-r1                              apk                        
+musl                         1.2.5-r13                             apk                        
+musl-utils                   1.2.5-r13                             apk                        
+ncurses-terminfo-base        6.5_p20250503-r0                      apk                        
+netcat-openbsd               1.229.1-r0                            apk                        
+nghttp2-libs                 1.69.0-r0                             apk                        
+oniguruma                    6.9.10-r0                             apk                        
+openssh-client-common        10.0_p1-r10                           apk                        
+openssh-client-default       10.0_p1-r10                           apk                        
+openssh-keygen               10.0_p1-r10                           apk                        
+pango                        1.56.3-r0                             apk                        
+pcre2                        10.46-r1                              apk                        
+perl                         5.40.4-r0                             apk                        
+perl-authen-radius           0.33-r0                               apk                        
+perl-cgi                     4.68-r0                               apk                        
+perl-cgi-fast                2.17-r1                               apk                        
+perl-cgi-session             4.48-r5                               apk                        
+perl-clone                   0.47-r0                               apk                        
+perl-config-grammar          1.13-r4                               apk                        
+perl-convert-asn1            0.34-r0                               apk                        
+perl-data-hexdump            0.04-r1                               apk                        
+perl-digest-hmac             1.05-r0                               apk                        
+perl-digest-md5              2.59-r2                               apk                        
+perl-digest-sha1             2.13-r19                              apk                        
+perl-encode-locale           1.05-r5                               apk                        
+perl-fcgi                    0.82-r4                               apk                        
+perl-file-listing            6.16-r0                               apk                        
+perl-html-parser             3.83-r0                               apk                        
+perl-html-tagset             3.24-r0                               apk                        
+perl-http-cookies            6.11-r0                               apk                        
+perl-http-date               6.06-r0                               apk                        
+perl-http-message            7.00-r0                               apk                        
+perl-http-negotiate          6.01-r5                               apk                        
+perl-io-html                 1.004-r1                              apk                        
+perl-io-socket-inet6         2.73-r2                               apk                        
+perl-io-socket-ssl           2.089-r0                              apk                        
+perl-io-tty                  1.20-r1                               apk                        
+perl-json                    4.10-r1                               apk                        
+perl-json-maybexs            1.004008-r0                           apk                        
+perl-ldap                    0.68-r2                               apk                        
+perl-libwww                  6.77-r0                               apk                        
+perl-lwp-mediatypes          6.04-r3                               apk                        
+perl-lwp-protocol-https      6.14-r0                               apk                        
+perl-mozilla-ca              20261020-r1                           apk                        
+perl-net-dns                 1.49-r0                               apk                        
+perl-net-http                6.23-r1                               apk                        
+perl-net-ip                  1.26-r7                               apk                        
+perl-net-openssh             0.84-r1                               apk                        
+perl-net-snmp                6.0.1-r8                              apk                        
+perl-net-ssleay              1.94-r2                               apk                        
+perl-net-telnet              3.05-r1                               apk                        
+perl-path-tiny               0.146-r0                              apk                        
+perl-rrd                     1.9.0-r4                              apk                        
+perl-snmp-session            1.16-r2                               apk                        
+perl-socket6                 0.29-r10                              apk                        
+perl-text-soundex            3.05-r10                              apk                        
+perl-try-tiny                0.32-r0                               apk                        
+perl-uri                     5.28-r0                               apk                        
+perl-www-robotrules          6.02-r5                               apk                        
+pixman                       0.46.4-r0                             apk                        
+procps-ng                    4.0.4-r3                              apk                        
+protobuf-c                   1.5.2-r0                              apk                        
+readline                     8.2.13-r1                             apk                        
+rrdtool                      1.9.0-r4                              apk                        
+scanelf                      1.3.8-r1                              apk                        
+shadow                       4.17.3-r0                             apk                        
+skalibs-libs                 2.14.4.0-r0                           apk                        
+smokeping                    2.9.0-r0                              apk                        
+ssl_client                   1.37.0-r20                            apk                        
+ssmtp                        2.64-r22                              apk                        
+stdlib                       go1.24.12                             go-module                  
+sudo                         1.9.17_p2-r0                          apk                        
+tcptraceroute                1.5_beta7-r4                          apk                        
+traceroute                   2.1.6-r0                              apk                        
+tzdata                       2026e-r0                              apk                        
+userspace-rcu                0.15.2-r0                             apk                        
+utmps-libs                   0.1.3.1-r0                            apk                        
+xz-libs                      5.8.4-r0                              apk                        
+zlib                         1.3.2-r1                              apk                        
+zstd-libs                    1.5.7-r0                              apk                        
