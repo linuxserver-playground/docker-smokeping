@@ -169,7 +169,7 @@ perl-cgi-fast                2.17-r1                               apk
 perl-cgi-session             4.48-r5                               apk                        
 perl-clone                   0.47-r0                               apk                        
 perl-config-grammar          1.13-r4                               apk                        
-perl-convert-asn1            0.34-r0                               apk                        
+perl-convert-asn1            0.37-r0                               apk                        
 perl-data-hexdump            0.04-r1                               apk                        
 perl-digest-hmac             1.05-r0                               apk                        
 perl-digest-md5              2.59-r2                               apk                        
